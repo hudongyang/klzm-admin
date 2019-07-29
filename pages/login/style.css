@@ -1,0 +1,27 @@
+.title {
+    color: #409EFF;
+    font-size: 45px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container {
+    text-align: center;
+}
+
+.container input {
+    text-indent: 1em;
+    width: 200px;
+    height: 30px;
+}
+
+.inputItem {
+    margin-bottom: 1em;
+}
+
+.loginButton {
+    background: #409EFF;
+    color: white;
+    font-size: 12px;
+    padding: 0.5em 1.5em;
+}
