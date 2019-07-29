@@ -6,6 +6,8 @@ import Gallery from "../../models/gallery";
 
 export const ProductContext = React.createContext<ContextProps>(null)
 
+export default ProductContext
+
 const { Provider } = ProductContext
 
 type ChangeHandler = React.ChangeEventHandler<HTMLInputElement>;
